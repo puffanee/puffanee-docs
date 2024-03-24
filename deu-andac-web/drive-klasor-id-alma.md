@@ -5,4 +5,4 @@
 - ***1***- **Yukarıdaki URL çubuğuna gidin ve** ***folders/*** **yazan kısımından sonraki karmaşık harf ve numaraları sonuna kadar kopyalayın.**
 
 
->![1](image1.png)
+>![1](images/image1.png)
