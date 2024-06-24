@@ -1,4 +1,4 @@
-For **Puffanee Menü Sistemi**
+For **MiranDean Menü Sistemi**
 # Önerilen Basit Menü Yazdırma Ayarları
 ## !! LÜTFEN YAZDIRMA MENÜSÜNÜ SADECE 'Yazdır' BUTONU İLE AÇIN !!
 
